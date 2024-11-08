@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+
+# Vercel build output
+out/
+
+# Cache files
+.cache/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Logs and temp files
+logs/
+tmp/
+
+# Editor backup files
+*.log
+*.tmp
+*.swp
